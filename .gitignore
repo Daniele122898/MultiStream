@@ -1,0 +1,7 @@
+settings.json
+settings.prod.json
+ffmpeg/
+MonaServer/
+venv/
+.venv/
+.idea/
